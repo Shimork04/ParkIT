@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Smart Parking Management System</title>
+</head>
+<body>
+    <h1>Smart Parking Management System</h1>
+    
+    <div class="parking-status">
+        <h2>Parking Spaces</h2>
+        <div id="available-spaces">Available Spaces: <span id="available-count">50</span></div>
+        <div id="allotted-spaces">Allotted Spaces: <span id="allotted-count">0</span></div>
+    </div>
+
+    <div class="parking-grid">
+        <!-- Dynamically generate parking spaces here using JavaScript -->
+    </div>
+    
+    <div class="parking-controls">
+        <form id="parking-form">
+            <label for="parking-quantity">Number of Spaces:</label>
+            <input type="number" id="parking-quantity" min="1" max="50" required>
+            <button type="submit" id="allocate-button">Allocate Parking</button>
+            <button type="submit" id="release-button">Release Parking</button>
+        </form>
+    </div>
+
+    <script src="app1.js"></script>
+</body>
+</html>
