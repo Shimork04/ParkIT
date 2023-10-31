@@ -14,3 +14,8 @@ Big cities, Big multiplex, Big Shopping malls, Societies, Municipal parking and 
 
 -> Future Scope:
 This project can be extended with Advance Java Framework like Spring Framework, for its backend operations and Security with Spring Security.
+
+
+-> Connecting mysql database to project using Nodejs
+- steps to connect mysql to project
+npm install mysql
