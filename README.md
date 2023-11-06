@@ -15,6 +15,9 @@ Big cities, Big multiplex, Big Shopping malls, Societies, Municipal parking and 
 -> Future Scope:
 This project can be extended with Advance Java Framework like Spring Framework, for its backend operations and Security with Spring Security.
 
+-> Project Snippet:
+![WhatsApp Image 2023-11-06 at 23 51 25_b0a99aa0](https://github.com/Shimork04/ParkIT/assets/111634234/a2d69d47-21f3-4d05-b602-01dd6699793e)
+
 
 -> Connecting mysql database to project using Nodejs
 - steps to connect mysql to project
