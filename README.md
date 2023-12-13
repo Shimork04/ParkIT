@@ -18,6 +18,7 @@ This project can be extended with Advance Java Framework like Spring Framework, 
 -> Project Snippet:
 ![image](https://github.com/Shimork04/ParkIT/assets/111634234/f7c6b2a4-b1a9-46c3-892d-a103ff03d2b0)
 
+
 -> Connecting mysql database to project using Nodejs
 - steps to connect mysql to project
 npm install mysql
