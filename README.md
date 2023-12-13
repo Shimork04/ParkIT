@@ -16,6 +16,7 @@ Big cities, Big multiplex, Big Shopping malls, Societies, Municipal parking and 
 This project can be extended with Advance Java Framework like Spring Framework, for its backend operations and Security with Spring Security.
 
 -> Project Snippet:
+
 ![image](https://github.com/Shimork04/ParkIT/assets/111634234/f7c6b2a4-b1a9-46c3-892d-a103ff03d2b0)
 
 
